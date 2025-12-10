@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Insights - Your Source for News</title>
+</head>
+<body>
+
+    <header>
+        <img src="images/logo.png" alt="Tech Insights Company Logo" width="200">
+        <h1>Tech Insights</h1>
+        <p>Your Source for Technology News and Reviews</p>
+
+        <nav>
+            <a href="Home.html">Home</a> |
+            <a href="Product Comparison.html">Product Comparison</a> |
+            <a href="Contact Us.html">Contact Us</a>
+        </nav>
+        <hr>
+    </header>
+
+    <main>
+        <h2>Featured Articles</h2>
+
+        <section>
+                <img src="images/article1.jpg" alt="Latest smartphone lineup on a table" width="300">
+                <h3>The Top Smartphones of 2025</h3>
+                <p> Discover the latest and greatest smartphones released this year, from groundbreaking camera features
+                    to ultra-fast processors. We break down which devices offer the best performance for your budget
+                    and lifestyle.</p>
+                <a href="#">Read More</a>
+        </section>
+
+        <hr>
+
+        <section>
+                <img src="images/article3.jpg" alt="High-end gaming PC setup with RGB lights and monitor" width="300">
+                <h3>PC Gaming in 2025: Power, Performance, and Possibilities</h3>
+                <p> PC gaming continues to dominate with cutting-edge hardware, stunning graphics, and endless customization.
+                    From new GPUs to advanced cooling systems, we explore how modern rigs are delivering faster frame rates
+                    and more immersive gameplay than ever before.</p>
+                <a href="#">Read More</a>
+        </section>
+
+        <hr>
+
+        <section>
+            <img src="images/article6.jpg" alt="A person wearing a VR headset looking at holographic interfaces" width="300">
+            <h3>Diving into the Metaverse: A Practical Guide to XR</h3>
+            <p>Extended Reality (XR), encompassing Virtual and Augmented Reality, is moving beyond gaming and into everyday life,
+                 offering new ways to communicate, train, and shop. This guide breaks down the essential hardware and platforms,
+                 explaining how XR is being adopted by major industries, from healthcare to education. Get ready for an immersive future.</p>
+            <a href="#">Read More &raquo;</a>
+        </section>
+    </main>
+
+    <hr>
+
+    <footer>
+        <p>&copy; 2024 Tech Insights. All rights reserved.</p>
+        <p>
+            <a href="https://facebook.com" target="_blank">Facebook</a> |
+            <a href="https://twitter.com" target="_blank">Twitter</a> |
+            <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+            | <a href="mailto:info@techinsights.com">Email Contact</a>
+        </p>
+    </footer>
+
+</body>
+</html>
